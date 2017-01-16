@@ -3,7 +3,7 @@ import org.apache.spark.streaming.kafka.KafkaUtils
 import org.apache.spark.streaming.{Minutes, Seconds, StreamingContext}
 
 /**
-  * Created by hdfs on 2017/1/16.
+  * Created by hdfs on 2017/1/15.
   */
 object SparkKafka {
 
